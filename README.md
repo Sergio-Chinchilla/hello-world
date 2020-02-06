@@ -1,2 +1,2 @@
 # hello-world
-cout << "Hello!" << endl; 
+Esto es mejor 
